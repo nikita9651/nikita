@@ -1,1 +1,1 @@
-this is initial master text
+this is second master text
